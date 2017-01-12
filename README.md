@@ -10,6 +10,11 @@ public void main() throws Exception {
 
     System.out.println(server.getStatus());
     System.out.println(server.getSystemLogs());
+    
+    // Access SPS
+    System.out.println(server.sps().listPlcDevices());
+    
+    // Read Sensor Data
     System.out.println(server.readSensorValue("vc1"));
 
   }
