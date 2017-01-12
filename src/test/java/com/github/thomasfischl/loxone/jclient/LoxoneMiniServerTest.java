@@ -14,9 +14,9 @@ import com.github.thomasfischl.loxone.jclient.mock.LoxoneClientRecorder;
 @Ignore("Is used to test against real lonxone mini searver or to record new mock files")
 public class LoxoneMiniServerTest {
 
-  private static final String HOST = "90.146.128.29";
+  private static final String HOST = "192.168.1.100";
   private static final String USERNAME = "admin";
-  private static final String PASSWORD = "Faba8888";
+  private static final String PASSWORD = "missing";
   private static final int PORT = 80;
 
   @Test
