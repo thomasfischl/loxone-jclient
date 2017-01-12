@@ -1,0 +1,38 @@
+[
+  {
+    "url": "/jdev/lan/exh",
+    "response": "{\"LL\": { \"control\": \"dev/lan/exh\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/rxo",
+    "response": "{\"LL\": { \"control\": \"dev/lan/rxo\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/rxp",
+    "response": "{\"LL\": { \"control\": \"dev/lan/rxp\", \"value\": \"33055\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/eof",
+    "response": "{\"LL\": { \"control\": \"dev/lan/eof\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/txp",
+    "response": "{\"LL\": { \"control\": \"dev/lan/txp\", \"value\": \"29325\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/nob",
+    "response": "{\"LL\": { \"control\": \"dev/lan/nob\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/txe",
+    "response": "{\"LL\": { \"control\": \"dev/lan/txe\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/txu",
+    "response": "{\"LL\": { \"control\": \"dev/lan/txu\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/lan/txc",
+    "response": "{\"LL\": { \"control\": \"dev/lan/txc\", \"value\": \"0\", \"Code\": \"200\"}}\r\n"
+  }
+]

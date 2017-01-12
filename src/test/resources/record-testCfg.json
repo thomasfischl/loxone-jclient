@@ -1,0 +1,66 @@
+[
+  {
+    "url": "/jdev/cfg/ftllocalonly",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/ftllocalonly\", \"value\": \"No\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/ntp",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/ntp\", \"value\": \"0.pool.ntp.org\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/timezoneoffset",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/timezoneoffset\", \"value\": \"+01:00:00\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/mac",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/mac\", \"value\": \"50:4F:94:15:B4:27\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/versiondate",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/versiondate\", \"value\": \"Nov 11 2016 12:26:21\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/ftp",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/ftp\", \"value\": \"21\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/dhcp",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/dhcp\", \"value\": \"Yes\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/ip",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/ip\", \"value\": \"192.168.1.100\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/version",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/version\", \"value\": \"8.1.11.7\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/dns1",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/dns1\", \"value\": \"192.168.1.1\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/mask",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/mask\", \"value\": \"255.255.255.0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/dns2",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/dns2\", \"value\": \"0.0.0.0\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/http",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/http\", \"value\": \"80\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/LoxPLAN",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/LoxPLAN\", \"value\": \"\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/gateway",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/gateway\", \"value\": \"192.168.1.1\", \"Code\": \"200\"}}\r\n"
+  },
+  {
+    "url": "/jdev/cfg/device",
+    "response": "{\"LL\": { \"control\": \"dev/cfg/device\", \"value\": \"DemoServer\", \"Code\": \"200\"}}\r\n"
+  }
+]
