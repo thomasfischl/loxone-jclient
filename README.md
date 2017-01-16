@@ -1,4 +1,6 @@
-# loxone-jclient
+# loxone-jclient 
+
+[![Build Status](https://travis-ci.org/thomasfischl/loxone-jclient.svg?branch=master)](https://travis-ci.org/thomasfischl/loxone-jclient)
 
 **loxone-jclient** is a simple java client to connect with a [Loxone Mini Server](https://www.loxone.com/enen/).
 
